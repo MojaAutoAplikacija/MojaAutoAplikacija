@@ -1,0 +1,22 @@
+[
+    {
+        "problem": "Auto ne startuje",
+        "solution": "Proverite bateriju ili starter. Ako je baterija prazna, pokušajte da je napunite ili zamenite. Ako starter ne radi, možda će biti potrebno da ga zamenite."
+    },
+    {
+        "problem": "Lampa ne svetli",
+        "solution": "Proverite sijalicu i osiguranje. Ako sijalica nije u funkciji, zamenite je. Ako je osiguranje pregorelo, zamenite ga sa novim."
+    },
+    {
+        "problem": "Motor se pregreva",
+        "solution": "Proverite nivo rashladne tečnosti i stanje creva. Ako je nivo nizak, dodajte rashladnu tečnost. Ako creva curi, zamenite ih."
+    },
+    {
+        "problem": "Kočnice se čine slabim",
+        "solution": "Proverite nivo kočionog fluida i stanje kočionih pločica. Ako je nivo fluida nizak, dopunite ga. Ako su pločice istrošene, zamenite ih."
+    },
+    {
+        "problem": "Auto vuče na jednu stranu",
+        "solution": "Proverite pritisak u gumama i stanje podešavanja upravljača. Ako je pritisak neujednačen, izjednačite ga. Ako je podešavanje neispravno, odvedite auto na servis."
+    }
+]
